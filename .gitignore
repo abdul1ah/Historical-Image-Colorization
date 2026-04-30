@@ -1,0 +1,17 @@
+# Python junk
+__pycache__/
+*.py[cod]
+
+# Model Weights
+*.pth
+*.pt
+*.h5
+
+# Local Data
+data/
+*.jpg
+*.png
+
+# Kaggle / IDE junk
+.virtualenv/
+.ipynb_checkpoints/
